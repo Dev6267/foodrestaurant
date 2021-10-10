@@ -1,0 +1,36 @@
+/*navigatio*/
+#navbar{
+    flex-direction: column;
+
+}
+
+/*home*/
+#home{
+    height: 280px;
+    flex-direction: column;
+
+}
+
+/*services*/
+#services{
+    flex-direction: column;
+
+}
+#services .box{
+    
+}
+
+/*client*/
+#client{
+
+}
+/*contactus*/
+#contact .form-group{
+    height: 80%;
+
+}
+
+/*footer*/
+
+
+   
